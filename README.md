@@ -4,8 +4,8 @@
 This is a simple guessing game where the user is asked to guess a number between 1 and 10. The game generates a random number and the user has three chances to guess the number. If the user's guess is too low, the game outputs "Your guess is too low". If the user's guess is too high, the game outputs "Your guess is too high". If the user correctly guesses the number, the game outputs "Good job! You guessed my number in x guesses!", where x is the number of guesses it took the user to correctly guess the number. If the user fails to correctly guess the number in three tries, the game outputs "Nope. The number I was thinking was x", where x is the randomly generated number.
 
 ## Requirements
-•	Python 3
-•	random library
+•	Python 3 \n
+•	random library 
 
 ## How to run the game
 1.	Install Python 3 if not already installed.
